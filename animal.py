@@ -1,12 +1,12 @@
 import json
 
-class Animal():
+class Animal:
 
     def __init__(self):
-        self.type = "liger"
-        self.size = "XXL"
-        self.age = 1000000
-        self.name = "Eddie"
+        self.type = ""
+        self.size = ""
+        self.age = 0
+        self.name = ""
         
     def speak():
         pass
